@@ -55,6 +55,7 @@ openrouter_activity_*.csv
 
 # 排除的文件夹
 .snapshots/
+clif-code-tui/.clifcode
 
 # 排除的文件 
-clif-code-tui/.clifcode/config.json
+
