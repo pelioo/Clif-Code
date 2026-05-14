@@ -52,3 +52,7 @@ yarn-error.log*
 coverage/
 .nyc_output/
 openrouter_activity_*.csv
+
+# 排除的文件夹
+.snapshots/
+
